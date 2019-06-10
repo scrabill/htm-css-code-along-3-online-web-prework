@@ -1,0 +1,18 @@
+body {
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+  font-family: arial, sans-serif;
+  color: #333333;
+}
+
+p {
+  font-size: 16px;
+  line-height: 150%;
+}
+
+a {
+  color:teal;
+  text-decoration: none;
+  border-bottom: 1px solid teal;
+}
