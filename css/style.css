@@ -13,4 +13,6 @@ p {
 
 a {
   color:teal;
+  text-decoration: none;
+  border-bottom: 1px solid teal;
 }
